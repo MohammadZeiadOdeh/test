@@ -1,0 +1,13 @@
+C:\Users\dev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\dev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\dev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\dev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\dev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\dev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.fsprojAssemblyReference.cache
+C:\Users\dev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.fs
+C:\Users\dev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\dev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
